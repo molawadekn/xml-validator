@@ -1,1 +1,167 @@
+S.No	Claim #	Status	DOS	LPI (Yes/No)	Original CPTs	Down coded CPTs 	Outcome	Diagnosis - Special Needs 	Interventions in the record	Interventions tracked by tool	Interventions validation	Comment for Incorrect or Newly capture	Comment Check	Start Time	End Time	Total Time Logged 	Date Reviewed	Reviewer Name	Comments	Provider TIN	Provider Name	Edit Name	Units	Primary DX	Secondary DX
+1	8652614799030	Ok	5/19/2026	No	99204	99203	Overturn	No	Chronic condition	Yes	Correct	Delete		06/05/26 03:37 AM EDT	06/05/26 03:47 AM EDT	0 hour 9 mins	6/5/26	Manjushree Jalindar Mandke		900599999	BENJAMIN A HUGHES FNP	EM Down Coding Professional	1	I10	
+									Service with no weights assigned	No	Newly added	MR support chronic condition with exacerbation with prescription management						Manjushree Jalindar Mandke							
+2	261899891600	Ok	5/15/2026	No	99214	99213	Upheld	No	Medication education	No	Newly added	MRI reviewed by physician, Page 3		06/05/26 03:47 AM EDT	06/05/26 03:55 AM EDT	0 hour 8 mins	6/5/26	Manjushree Jalindar Mandke		842136648	STEVEN J THORNTON	EM Down Coding Professional	1	S86.812D	
+3	7672604995625	Ok	2/16/2026	No	99214	99213	Upheld	No	Chronic condition	Yes	Correct	Delete		06/05/26 03:55 AM EDT	06/05/26 04:11 AM EDT	0 hour 15 mins	6/5/26	Manjushree Jalindar Mandke		650311858	STEVEN K JORDAN MD	EM Down Coding Professional	1	M17.11	
+									Medication education	No	Newly added	X ray reviewed by physician, Page 5						Manjushree Jalindar Mandke					1		
+4	261188623400	Ok	3/25/2026	No	99204	99203	Overturn	No	Chronic condition	Yes	Correct	Delete		06/05/26 04:11 AM EDT	06/05/26 04:19 AM EDT	0 hour 8 mins	6/5/26	Manjushree Jalindar Mandke		262636087	SCOTT J TAYLOR	EM Down Coding Professional	1	L20.89	
+									Therapy (not BH)	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Service with no weights assigned	No	Newly added	MR support chronic condition with exacerbation with prescription management						Manjushree Jalindar Mandke					1		
+5	261161953900	Ok	3/27/2026	No	99285	99284	Overturn	No	UltrasoundSetup	Yes	Correct	Delete		06/05/26 04:19 AM EDT	06/05/26 04:36 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		42103590	LOWELL GENERAL HOSPITAL	ER Facility Vendor	1	N45.1	B96.20
+									Heplock	Yes	Incorrect	Missing document for Heplock						Manjushree Jalindar Mandke					1		
+									UltrasoundSetup	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Incorrect	Missing document for Susceptibility test						Manjushree Jalindar Mandke					1		
+									PointOfCareTesting	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Incorrect	Missing document for IV/IM medication administration.						Manjushree Jalindar Mandke					1		
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 14						Manjushree Jalindar Mandke					1		
+									GenitourinaryExam	No	Newly added	GU exam, Page 12						Manjushree Jalindar Mandke					1		
+6	261870322300	Ok	5/14/2026	No	99285	99284	Upheld	No	VenipunctureArterialStick	Yes	Correct	Delete		06/05/26 04:36 AM EDT	06/05/26 04:54 AM EDT	0 hour 18 mins	6/5/26	Manjushree Jalindar Mandke		840438224	SOUTHMOOR EMERGENCY AND URGENT CARE	ER Facility Vendor	1	K52.9	F17.210
+									Heplock	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminHydrationInfusion	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+7	261624718600	Ok	4/26/2026	No	99284	99283	Upheld	No	PointOfCareTesting	Yes	Correct	Delete		06/05/26 04:54 AM EDT	06/05/26 05:13 AM EDT	0 hour 18 mins	6/5/26	Manjushree Jalindar Mandke		840417134	ST JOSEPH S HOSPITAL	ER Facility Vendor	1	E11.65	R07.89
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring						Manjushree Jalindar Mandke							
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke							
+									CardiacMonitoring	Yes	Incorrect	Missing document for cardiac monitoring						Manjushree Jalindar Mandke							
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke							
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 13						Manjushree Jalindar Mandke							
+8	261389771500	Ok	4/6/2026	No	99284	99283	Overturn	No	CollectionPrepSampleLab	Yes	Correct	Delete		06/05/26 05:13 AM EDT	06/05/26 05:30 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		593234721	BAPTIST MEDICAL CENTER NASSAU	ER Facility Vendor	1	B34.9	R59.0
+									Heplock	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminHydrationInfusion	No	Newly added	LR hydration given, Page 21						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	No	Newly added	Second Blood culture, Page 51						Manjushree Jalindar Mandke					1		
+9	261794048000	Ok	5/9/2026	No	99285	99284	Upheld	No	CardiacMonitoring	Yes	Correct	Delete		06/05/26 05:30 AM EDT	06/05/26 05:47 AM EDT	0 hour 17 mins	6/5/26	Manjushree Jalindar Mandke		931146501	PROVIDENCE NEWBERG MEDICAL CENTER	ER Facility Vendor	1	R07.89	Z86.718
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke							
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring						Manjushree Jalindar Mandke							
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke							
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke							
+10	261921937400	Ok	5/22/2026	No	99284	99283	Upheld	No	RadiologyStudyPrep	Yes	Correct	Delete		06/05/26 05:47 AM EDT	06/05/26 06:05 AM EDT	0 hour 17 mins	6/5/26	Manjushree Jalindar Mandke		540620889	INOVA FAIR OAKS HOSPITAL	ER Facility Vendor	1	R06.09	I10
+									CardiacMonitoring	Yes	Incorrect	Missing document for cardiac monitoring						Manjushree Jalindar Mandke					1		
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	No	Newly added	Blood collection for Troponin, Page 15						Manjushree Jalindar Mandke					1		
+11	7652609602909	Ok	4/1/2026	No	99284	99283	Overturn	No	OximetryMonitoring	Yes	Incorrect	Scored based on diagnosis, no intervention found in Medical record.		06/05/26 06:05 AM EDT	06/05/26 06:21 AM EDT	0 hour 15 mins	6/5/26	Manjushree Jalindar Mandke		742730328	METHODIST HSP	ER Facility Vendor	1	R42	E66.01
+									CardiacMonitoring	Yes	Incorrect	Scored based on diagnosis, no intervention found in Medical record.						Manjushree Jalindar Mandke					1		
+									Heplock	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminHydrationInfusion	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									OrthostaticVitals	Yes	Incorrect	Scored based on diagnosis, no intervention found in Medical record.						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	No	Newly added	EKG performed, Page 12, 28						Manjushree Jalindar Mandke					1		
+12	4192614890075	Ok	5/20/2026	No	99214	99213	Upheld	No	Medication education	No	Newly added	X ray ordered by physician, Page 3		06/05/26 06:21 AM EDT	06/05/26 06:26 AM EDT	0 hour 4 mins	6/5/26	Manjushree Jalindar Mandke		843681269	CHARLES E ARMSTRONG DO	EM Down Coding Professional	1	R05.8	
+13	9222615201142	Ok	5/26/2026	No	99284	99283	Overturn	No	VenipunctureArterialStick	Yes	Correct	Delete		06/05/26 06:26 AM EDT	06/05/26 06:42 AM EDT	0 hour 15 mins	6/5/26	Manjushree Jalindar Mandke		200851062	BELTON REG MED CTR	ER Facility Vendor	1	R07.89	
+									OximetryMonitoring	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CardiacMonitoring	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 12						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	No	Newly added	Blood collection for Troponin, Page 7						Manjushree Jalindar Mandke					1		
+									Heplock	No	Newly added	Heplock placed, Page 14						Manjushree Jalindar Mandke					1		
+14	7682615217320	Ok	5/27/2026	No	99284	99283	Upheld	No	RadiologyStudyPrep	Yes	Correct	Delete		06/05/26 06:42 AM EDT	06/05/26 06:59 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		464027347	MED CITY ALLIANCE	ER Facility Vendor	1	S09.90XA	
+									GlasgowComaNeuroCheck	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+15	8222615200935	Ok	5/26/2026	No	99284	99283	Overturn	No	AdminMedsOralNasalTop	Yes	Correct	Delete		06/05/26 06:59 AM EDT	06/05/26 07:15 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		742730328	METHODIST TEXSAN HSP	ER Facility Vendor	1	M51.369	G89.29
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Heplock	Yes	Incorrect	IM injection given hence heplock cannot be validated.						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 22						Manjushree Jalindar Mandke					1		
+16	261775449000	Ok	4/26/2026	No	99284	99283	Upheld	No	GlasgowComaNeuroCheck	No	Newly added	GCS, Page 11		06/05/26 07:15 AM EDT	06/05/26 07:30 AM EDT	0 hour 15 mins	6/5/26	Manjushree Jalindar Mandke		250965600	UPMC WASHINGTON HOSPITAL	ER Facility Vendor	1	S00.83XA	S00.81XA
+17	8682613330693	Ok	5/8/2026	No	99284	99283	Upheld	No	CardiacMonitoring	Yes	Correct	Delete		06/05/26 07:31 AM EDT	06/05/26 07:48 AM EDT	0 hour 17 mins	6/5/26	Manjushree Jalindar Mandke		621763090	GOOD SAM HSP	ER Facility Vendor	1	I12.9	N18.9
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring						Manjushree Jalindar Mandke					1		
+									Heplock	No	Newly added	Heplock placed, Page 14						Manjushree Jalindar Mandke					1		
+18	9682536127341	Ok	12/19/2025	No	99284	99283	Upheld	No	AdminMedsOralNasalTop	Yes	Correct	Delete		06/05/26 07:48 AM EDT	06/05/26 08:07 AM EDT	0 hour 19 mins	6/5/26	Manjushree Jalindar Mandke		882447284	WATSONVILLE COMM HSP	ER Facility Vendor	1	H66.91	Z11.52
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									PointOfCareTesting	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 15						Manjushree Jalindar Mandke					1		
+19	261434071400	Ok	4/9/2026	No	99214	99213	Overturn	No	Chronic condition	Yes	Correct	Delete		06/05/26 08:07 AM EDT	06/05/26 08:14 AM EDT	0 hour 6 mins	6/5/26	Manjushree Jalindar Mandke		840405257	MELISSA J PAGE	EM Down Coding Professional	1	I10	
+									Service with no weights assigned	No	Newly added	MR support chronic condition with exacerbation with prescription management						Manjushree Jalindar Mandke					4		
+20	260127218100	Ok	1/9/2026	No	99284	99283	Overturn	No	AdminMedsOralNasalTop	Yes	Correct	Delete		06/05/26 08:14 AM EDT	06/05/26 08:38 AM EDT	0 hour 24 mins	6/5/26	Manjushree Jalindar Mandke		910433740	SWEDISH MEDICAL CENTER	ER Facility Vendor	1	S42.212A	R03.0
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Heplock	Yes	Incorrect	IM injection given hence heplock cannot be validated.						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	No	Newly added	Percocet oral given, Page 6						Manjushree Jalindar Mandke					1		
+									Ace Sling Strapping	No	Newly added	Sling applied, Page 6						Manjushree Jalindar Mandke					1		
+21	9432612490174	Ok	4/25/2026	No	99284	99283	Overturn	No	AdminMedsIV	Yes	Correct	Delete		06/05/26 08:38 AM EDT	06/05/26 08:57 AM EDT	0 hour 19 mins	6/5/26	Manjushree Jalindar Mandke		581790149	TANNER MED CTR CARROLLTO	ER Facility Vendor	1	S46.201A	
+									Heplock	Yes	Incorrect	IM injection given hence heplock cannot be validated.						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									MonitorAdminNarcotics	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	No	Newly added	Percocet oral given, Page 4						Manjushree Jalindar Mandke					1		
+22	8192613191245	Ok	1/30/2026	Yes	99284	99283	Upheld	No	PointOfCareTesting	Yes	Correct	Delete		06/05/26 08:57 AM EDT	06/05/26 09:14 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		620532345	MEML HLTH SYS INC	ER Facility Vendor	1	S30.811A	S20.419A
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+23	8432613391357	Ok	5/4/2026	No	99285	99284	Upheld	No	EmesisCare	Yes	Correct	Delete		06/05/26 09:14 AM EDT	06/05/26 09:23 AM EDT	0 hour 9 mins	6/5/26	Manjushree Jalindar Mandke		562014989	ONSLOW MEML HSP	ER Facility Vendor	1	K80.20	R11.2
+									CardiacMonitoring	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									UltrasoundSetup	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									GlasgowComaNeuroCheck	No	Newly added	GCS, Page 42						Manjushree Jalindar Mandke					1		
+									Heplock	No	Newly added	Heplock placed, Page 24						Manjushree Jalindar Mandke					1		
+24	9682614906954	Ok	5/19/2026	No	99285	99284	Upheld	No	RadiologyStudyPrep	Yes	Correct	Delete		06/05/26 09:23 AM EDT	06/05/26 09:43 AM EDT	0 hour 20 mins	6/5/26	Manjushree Jalindar Mandke		60646718	MIDDLESEX HSP	ER Facility Vendor	1	R07.9	R11.2
+									AdminHydrationInfusion	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	Yes	Incorrect	Missing EKG tracing sheet						Manjushree Jalindar Mandke					1		
+									Heplock	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EmesisCare	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CardiacMonitoring	Yes	Incorrect	Missing document for cardiac monitoring						Manjushree Jalindar Mandke					1		
+									OximetryMonitoring	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+25	4432534792174	OK	12/11/2025	No	99214	99213	Upheld	No	Chronic condition	Yes	Correct	Delete		06/05/26 09:43 AM EDT	06/05/26 09:48 AM EDT	0 hour 5 mins	6/5/26	Manjushree Jalindar Mandke		620874165	HARRIETTE M SCARPERO MD	EM Down Coding Professional	1	N20.0	
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									POC	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+26	9432606591746	OK	3/4/2026	No	99214	99213	Upheld	No	Chronic condition	Yes	Correct	Delete		06/05/26 09:49 AM EDT	06/05/26 10:03 AM EDT	0 hour 14 mins	6/5/26	Manjushree Jalindar Mandke		650311858	DANIEL S HUSTED MD	EM Down Coding Professional	1	M54.16	
+									Radiology 	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Medication education	No	Newly added	MRI ordered by physician, Page 5						Manjushree Jalindar Mandke					1		
+27	261748926700	OK	4/4/2026	Yes	99284	99283	Upheld	No	UltrasoundSetup	Yes	Correct	Delete		06/05/26 10:03 AM EDT	06/05/26 10:28 AM EDT	0 hour 24 mins	6/5/26	Manjushree Jalindar Mandke		60646755	CONNECTICUT CHILDRENS MEDICAL CENTER	ER Facility Vendor	1	R14.0	R11.0
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									ChildOrSpecialNeedsAdult	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Heplock	No	Newly added	Heplock placed, Page 31						Manjushree Jalindar Mandke					1		
+28	8682614693711	OK	5/14/2026	No	99204	99203	Upheld	No	Procedures	Yes	Correct	Delete		06/05/26 10:28 AM EDT	06/05/26 10:45 AM EDT	0 hour 16 mins	6/5/26	Manjushree Jalindar Mandke		842136648	BRIAN T HARDY MD	EM Down Coding Professional	1	M65.341	
+									Medication administered	Yes	Correct	Delete						Manjushree Jalindar Mandke							
+29	8672614390084	OK	5/17/2026	No	99284	99283	Upheld	No	RadiologyStudyPrep	Yes	Correct	Delete		06/05/26 10:45 AM EDT	06/05/26 10:59 AM EDT	0 hour 14 mins	6/5/26	Manjushree Jalindar Mandke		943246947	SEQUOIA HSP	ER Facility Vendor	1	S16.1XXA	M54.9
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CervicalSpinePrecautions	Yes	Incorrect	Scored based on diagnosis, no intervention found in Medical record.						Manjushree Jalindar Mandke					1		
+30	261887387400	OK	5/12/2026	No	99285	99284	Upheld	No	AdminMedsOralNasalTop	Yes	Correct	Delete		6/05/26 10:59 AM EDT	06/05/26 11:13 AM EDT	0 hour 14 mins	6/5/26	Manjushree Jalindar Mandke		421672810	PROVIDENCE LITTLE COMPANY OF MARY MED CTR TORRANCE	ER Facility Vendor	1	G43.B0	J32.9
+									AdminMedsOralNasalTop	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									RadiologyStudyPrep	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									EKG	Yes	Incorrect	Missing EKG tracing sheet	Ok					Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CardiacMonitoring	Yes	Incorrect	Missing document for cardiac monitoring	Ok					Manjushree Jalindar Mandke					1		
+									OximetryMonitoring	Yes	Incorrect	Missing document for oximetry monitoring	#REF!					Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	Yes	Incorrect	Missing document for oral medication administration.	Ok					Manjushree Jalindar Mandke					1		
+									VisualAcuityExam	No	Newly added	Visual acuity done, Page 7	#REF!					Manjushree Jalindar Mandke					1		
+									AdminMedsOptic	No	Newly added	Proparacaine eye drop given in bilateral eye, Page 14						Manjushree Jalindar Mandke					1		
+									AdminMedsOptic	No	Newly added	Proparacaine eye drop given in bilateral eye, Page 14						Manjushree Jalindar Mandke					1		
+31	260879242700	Ok	3/3/2026	Yes	99284	99283	Upheld	No	RadiologyStudyPrep	Yes	Correct	Delete		06/05/26 11:13 AM EDT	06/05/26 11:27 AM EDT	0 hour 13 mins	6/5/26	Manjushree Jalindar Mandke		20483054	SOUTHERN NEW HAMPSHIRE MED CENTER	ER Facility Vendor	1	R10.814	Z88.1
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	No	Newly added	HCG, Page 2	#REF!					Manjushree Jalindar Mandke					1		
+32	8682608394811	Ok	3/10/2026	No	99285	99284	Upheld	No	PointOfCareTesting	Yes	Correct	Delete					6/5/26	Manjushree Jalindar Mandke		232939047	SUMMERLIN HSP MED CTR	ER Facility Vendor	1	O99.891	M71.21
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									Heplock	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsOralNasalTop	Yes	Incorrect	Missing document for oral medication administration.	Ok					Manjushree Jalindar Mandke					1		
+									UltrasoundSetup	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminMedsIV	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									VenipunctureArterialStick	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									CollectionPrepSampleLab	Yes	Correct	Delete						Manjushree Jalindar Mandke					1		
+									AdminHydrationInfusion	No	Newly added	Sodium chloride IV given, Page 117	#REF!					Manjushree Jalindar Mandke					1		
+									FetalMonitoring	No	Newly added	Fetal monitoring, Page 133						Manjushree Jalindar Mandke					1		
 
